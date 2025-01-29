@@ -1,0 +1,13 @@
+﻿@* @model PruebasMVC.ViewModels.PruebasVM *@
+@model IEnumerable<PruebasMVC.ViewModels.PruebasVM>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@foreach(var item in Model) {
+    <p>La pelicula con @item.Nombre con id @Html.DisplayFor(modelItem => item.Id) ha recibido @Html.DisplayFor(modelItem => item.MeGustas) me gustas</p>
+}
+
+@* <p>La pelicula con @.Nombre con id @Model.Id ha recibido @Model.MeGustas me gustas</p> *@
