@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\views\\cursos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\views\\cursos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\views\\cursos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\views\\cursos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\views\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\views\\cursos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\views\\cursos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\views\\cursos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|e:\\di\\asp.net\\misproyectos\\pruebasmvc\\pruebasmvc\\pruebasmvc\\views\\alumnos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{850E0668-EDF1-458C-A266-09689EFD0905}|PruebasMVC\\PruebasMVC.csproj|solutionrelative:pruebasmvc\\views\\alumnos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Models\\Alumno.cs",
-              "RelativeDocumentMoniker": "PruebasMVC\\Models\\Alumno.cs",
-              "ToolTip": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Models\\Alumno.cs",
-              "RelativeToolTip": "PruebasMVC\\Models\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "PruebasMVC\\Models\\Curso.cs",
+              "ToolTip": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Models\\Curso.cs",
+              "RelativeToolTip": "PruebasMVC\\Models\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:53:16.017Z"
+              "WhenOpened": "2025-01-30T15:07:40.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,58 +53,49 @@
               "RelativeDocumentMoniker": "PruebasMVC\\Controllers\\CursosController.cs",
               "ToolTip": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Controllers\\CursosController.cs",
               "RelativeToolTip": "PruebasMVC\\Controllers\\CursosController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwEoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:45:03.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Models\\Curso.cs",
-              "RelativeDocumentMoniker": "PruebasMVC\\Models\\Curso.cs",
-              "ToolTip": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Models\\Curso.cs",
-              "RelativeToolTip": "PruebasMVC\\Models\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T15:41:11.165Z",
+              "WhenOpened": "2025-01-30T14:59:37.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Views\\Cursos\\Create.cshtml",
               "RelativeDocumentMoniker": "PruebasMVC\\Views\\Cursos\\Create.cshtml",
               "ToolTip": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Views\\Cursos\\Create.cshtml",
               "RelativeToolTip": "PruebasMVC\\Views\\Cursos\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T15:32:11.388Z"
+              "WhenOpened": "2025-01-30T14:59:32.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Views\\Cursos\\Details.cshtml",
               "RelativeDocumentMoniker": "PruebasMVC\\Views\\Cursos\\Details.cshtml",
               "ToolTip": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Views\\Cursos\\Details.cshtml",
               "RelativeToolTip": "PruebasMVC\\Views\\Cursos\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T19:15:47.627Z"
+              "WhenOpened": "2025-01-30T14:54:49.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Views\\Cursos\\Index.cshtml",
-              "RelativeDocumentMoniker": "PruebasMVC\\Views\\Cursos\\Index.cshtml",
-              "ToolTip": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Views\\Cursos\\Index.cshtml",
-              "RelativeToolTip": "PruebasMVC\\Views\\Cursos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Views\\Alumnos\\Details.cshtml",
+              "RelativeDocumentMoniker": "PruebasMVC\\Views\\Alumnos\\Details.cshtml",
+              "ToolTip": "E:\\DI\\ASP.NET\\MisProyectos\\PruebasMVC\\PruebasMVC\\PruebasMVC\\Views\\Alumnos\\Details.cshtml",
+              "RelativeToolTip": "PruebasMVC\\Views\\Alumnos\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T16:34:05.488Z"
+              "WhenOpened": "2025-01-30T14:54:22.525Z",
+              "EditorCaption": ""
             }
           ]
         }

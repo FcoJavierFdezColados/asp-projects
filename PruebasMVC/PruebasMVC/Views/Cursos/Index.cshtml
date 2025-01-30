@@ -59,7 +59,7 @@
                     <a asp-controller="Cursos" asp-action="Details" asp-route-id ="@item.Id">@Html.DisplayFor(modelItem => item.Nombre)</a>
                 </td>
                 <td>
-                    Opciones
+                    <a class="btn btn-info" asp-controller="Cursos" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
                 </td>
             </tr>
 

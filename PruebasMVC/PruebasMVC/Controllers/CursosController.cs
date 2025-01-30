@@ -118,7 +118,7 @@ namespace PruebasMVC.Controllers
                 try
                 {
                     _context.Update(curso);
-                    await _context.SaveChangesAsync();
+                    await _context.SaveChangesAsync();                    
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -131,6 +131,7 @@ namespace PruebasMVC.Controllers
                         throw;
                     }
                 }
+                return RedirectToAction(nameof(Index));
             }   
 
             return View(curso);
